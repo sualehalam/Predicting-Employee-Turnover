@@ -24,3 +24,8 @@ One of the most common problems at work is employee turnover which can be a nigh
 * Cost of hiring (advertising, interviewing, hiring)
 * Cost of onboarding a new person (training, management time)
 * Lost productivity (a new person may take 1-2 years to reach the productivity of an existing person)
+
+## Proposed Solution:
+![employee-retention](https://github.com/sualehalam/Predicting-Employee-Turnover/assets/45514336/5c80019b-5e0b-46f0-a624-9cc95fbc1958)
+
+
