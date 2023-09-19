@@ -36,4 +36,6 @@ Since this model is used for humans, hence we should not solely rely on the mode
 
 ![employee-retention](https://github.com/sualehalam/Predicting-Employee-Turnover/assets/45514336/5c80019b-5e0b-46f0-a624-9cc95fbc1958)
 
+# Authors
 
+ 
