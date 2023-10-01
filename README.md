@@ -3,7 +3,7 @@
 
 ## Understanding and Predicting Employee Turnover
 
-###### A case study in prescriptive analytics
+###### A case study in Prescriptive Analytics
 ______________________
 ##### "Alone we can do so little, together we can do so much." - Helen Keller
 ______________________
