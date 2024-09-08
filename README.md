@@ -29,7 +29,6 @@ One of the most common problems at work is employee turnover which can be a nigh
 Since this model is used for humans, hence we should not solely rely on the models results. A better approach would be to use it's predicted probability to design a customized risk zone for all employees and treat each employee respectively.
 
 1. **Safe Zone (Green) –** Employees within this zone are considered safe. **[Score < 0.2]**
-
 2. **Low Risk Zone (Yellow) –** Employees within this zone are too be taken into consideration of potential turnover. This is more of a long-term track.
 3. **Medium Risk Zone (Orange) –** Employees within this zone are at risk of turnover. Action should be taken and monitored accordingly.
 4. **High Risk Zone (Red) –** Employees within this zone are considered to have the highest chance of turnover. Action should be taken immediately. **[Score > 0.9]**
